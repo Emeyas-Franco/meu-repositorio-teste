@@ -8,8 +8,6 @@
 
 3. FAzer Alterações >> Adicionar | Commitar | Enviar arquivos; [ X ]
 
-4. Criar um nova Branch; [ ]
+4. Criar um nova Branch e Merge; [ X ]
 
-5. Realizar um Pull Requeeste e Merge; [ ]
-
-6. Criar nosso primeiro Fork; [ ]
+5. Realizar um For e Pull Request(PR); [ X ]
